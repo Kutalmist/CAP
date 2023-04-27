@@ -133,10 +133,10 @@ annotate service.permission with @(
 // );
 
 annotate service.detail with @(
- UI.SelectionFields : [
-        Status,
-        perCreateDate,
-    ],
+//  UI.SelectionFields : [
+//         Status,
+//         perCreateDate,
+//     ],
     UI.LineItem #detail : [
         {
             $Type : 'UI.DataField',
