@@ -1,0 +1,4 @@
+detail_ID;perID_persNo;Status;perCreateDate;perCreateTime;perDay;perDesc;
+1;1;Onaylanmadı;20.10.2022;8;1;Babalık Izni;
+2;1;Onaylandı;23.10.2022;16;2;Babalık Izni;
+3;1;Bekleniyor;24.10.2022;24;3;Babalık Izni;
